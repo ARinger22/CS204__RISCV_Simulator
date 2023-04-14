@@ -1,0 +1,12 @@
+Total cycles = 185                                                                
+Total instructions = 906                                                          
+Cycles per instruction = 4.897297                                                      
+Data transfer instructions = 20                                                  
+ALU instructions = 75                                                            
+Cntrol instructions = 20                                                         
+Total stalls = 0                                                                
+Data hazards found = 0                                                          
+Control hazards found = 0                                                       
+Branch mispredictions = 0                                                       
+Data hazard stalls = 0                                                          
+Control hazard stalls = 0                                                       
